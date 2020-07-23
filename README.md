@@ -47,7 +47,7 @@
 
 ## **You can Reach me out** ☎️
 
-<a href="https://www.linkedin.com/in/mailforgobi">
+<a href="https://www.linkedin.com/in/gobi-rajendran-70205725">
         <img width="30px" alt="LinkedIn" src="https://github.com/githubgobi/githubgobi/blob/master/assets/linkedin.svg">&nbsp;
 </a>
 
