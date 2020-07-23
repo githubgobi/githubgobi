@@ -35,10 +35,10 @@
 <img width="36px" alt="html" src="https://github.com/githubgobi/githubgobi/blob/master/assets/html5.svg">&nbsp;
 <img width="36px" alt="css" src="https://github.com/githubgobi/githubgobi/blob/master/assets/css3.svg">&nbsp;
 <img width="36px" alt="javascript" src="https://github.com/githubgobi/githubgobi/blob/master/assets/javascript.svg">&nbsp;
-<img width="46px" alt="react" src="https://github.com/githubgobi/githubgobi/blob/master/assets/vue.svg">&nbsp;
+<img width="46px" alt="vue" src="https://github.com/githubgobi/githubgobi/blob/master/assets/vue.svg">&nbsp;
 <img width="46px" alt="react" src="https://github.com/githubgobi/githubgobi/blob/master/assets/react.svg">&nbsp;
-<img width="40px" alt="c++" src="https://github.com/githubgobi/githubgobi/blob/master/assets/php.svg">&nbsp;
-<img width="40px" alt="c++" src="https://github.com/githubgobi/githubgobi/blob/master/assets/python.svg">&nbsp;
+<img width="40px" alt="php" src="https://github.com/githubgobi/githubgobi/blob/master/assets/php.svg">&nbsp;
+<img width="40px" alt="python" src="https://github.com/githubgobi/githubgobi/blob/master/assets/python.svg">&nbsp;
 
 ## **Tools** 💻️
 
