@@ -1,10 +1,10 @@
-# <p align="center">️ **Hello!!👋️ It's Gobi Rajendran** 🎯️🚀️</p>
+# <p align="center">️ **Hello!!👋️ It's Gobi Rajendran** 🦄 Artisan Vue & React 🐧End to End </p>
 
 ---
 
 </br>
 
-<img align="right" alt="GIF" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img align="right" alt="GIF" width="400" src="https://media.giphy.com/media/Vbn7PUTxaB6dVnVa2h/giphy.gif"/>
 
 </br>
 
@@ -12,7 +12,7 @@
 
 - I'm aspiring 🔭️ Artisan,Vue currently learning **React** library.
 - I always like working in 🐧️**Linux** Environment.
-- I'm a knowledge seeker & I love to learn new **Technologies**.
+- I love to learn new **Technologies**.
 
 ### <p align="center">**Keep Thinking** 😊️ </p>
 
