@@ -63,7 +63,7 @@
 </p>
 <p >
   <img src = "https://github-readme-stats.vercel.app/api?username=githubgobi&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=githubgobi&hide=&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=githubgobi&hide=HTML&theme=tokyonight">
 </p>
 
 ## **You can Reach me out** ☎️
