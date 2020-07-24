@@ -46,7 +46,9 @@
 	<img width="40px" alt="mongo" src="https://github.com/githubgobi/githubgobi/blob/master/assets/mongo.svg">&nbsp;
 	<img width="40px" alt="firebase" src="https://github.com/githubgobi/githubgobi/blob/master/assets/firebase.svg">&nbsp;
 </p>
+
 ## **Tools** 💻️
+
 <p >
 	<img width="36px" alt="vim" src="https://github.com/githubgobi/githubgobi/blob/master/assets/vim.svg">&nbsp;
 	<img width="36px" alt="vscode" src="https://github.com/githubgobi/githubgobi/blob/master/assets/visual-studio-code.svg">&nbsp;
@@ -55,15 +57,13 @@
 	<img width="36px" alt="postman" src="https://github.com/githubgobi/githubgobi/blob/master/assets/postman.svg">&nbsp;
 	<img width="36px" alt="planning" src="https://github.com/githubgobi/githubgobi/blob/master/assets/draw.svg">&nbsp;
 </p>
+
 ## **Environment** 💻️
+
 <p >
 	<img width="36px" alt="aws" src="https://github.com/githubgobi/githubgobi/blob/master/assets/aws.svg">&nbsp;
 	<img width="36px" alt="digitalocean" src="https://github.com/githubgobi/githubgobi/blob/master/assets/digitalocean.svg">&nbsp;
 	<img width="36px" alt="docker" src="https://github.com/githubgobi/githubgobi/blob/master/assets/docker.svg">&nbsp;
-</p>
-<p >
-  <img src = "https://github-readme-stats.vercel.app/api?username=githubgobi&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=githubgobi&hide=HTML&theme=tokyonight">
 </p>
 
 ## **You can Reach me out** ☎️
@@ -78,4 +78,8 @@
 
 </br>
 </br>
+<p >
+  <img src = "https://github-readme-stats.vercel.app/api?username=githubgobi&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=githubgobi&hide=HTML&theme=tokyonight">
+</p>
 
