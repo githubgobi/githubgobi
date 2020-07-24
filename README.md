@@ -31,7 +31,7 @@
 
 ## **Tech Stack** 👨‍💻️
 
- <img  align="right" src="https://github-readme-stats.vercel.app/api?username=githubgobi&show_icons=true&text_color=fff&icon_color=00C853&title_color=FF6F00&bg_color=000">
+ <!-- - <img  align="right" src="https://github-readme-stats.vercel.app/api?username=githubgobi&show_icons=true&text_color=fff&icon_color=00C853&title_color=FF6F00&bg_color=000">-->
 
 <img width="36px" alt="html" src="https://github.com/githubgobi/githubgobi/blob/master/assets/html5.svg">&nbsp;
 <img width="36px" alt="css" src="https://github.com/githubgobi/githubgobi/blob/master/assets/css3.svg">&nbsp;
@@ -59,6 +59,11 @@
 <img width="36px" alt="aws" src="https://github.com/githubgobi/githubgobi/blob/master/assets/aws.svg">&nbsp;
 <img width="36px" alt="digitalocean" src="https://github.com/githubgobi/githubgobi/blob/master/assets/digitalocean.svg">&nbsp;
 <img width="36px" alt="docker" src="https://github.com/githubgobi/githubgobi/blob/master/assets/docker.svg">&nbsp;
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=githubgobi&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=githubgobi&hide=CSS,HTML&theme=tokyonight">
+</p>
 
 ## **You can Reach me out** ☎️
 
