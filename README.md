@@ -1,4 +1,4 @@
-# <p align="center">️ **Hello!!👋️ It's Gobi Rajendran** 🦄 Artisan Vue & React 🐧End to End </p>
+# <p align="center">️ **Hello!!👋️ It's Gobi ♒ Rajendran** 🦄 Artisan Vue & React 🐧End to End 🐍Django </p> 
 
 ---
 
@@ -15,7 +15,7 @@
 - 👯 I always like working in 🐧️**Linux** Environment.
 - 🤔 I’m looking for help with AWS,Docker,CI-CD
 
-### <p align="center">**Be Happy** 😊️ </p>
+### <p align="center">**Be Happy** 😊️ ⌛</p>
 
 <!-- - 🌱 I’m currently learning ReactJs -->
 <!-- - 👯 I’m looking to collaborate on ... -->
