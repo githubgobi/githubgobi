@@ -11,7 +11,7 @@
 ## &nbsp; &nbsp; &nbsp; **About Me**👨‍🎓️
 
 - ⚡ I'm aspiring 🔭️ Artisan,Vue and 🐧End to End
-- 🌱 I’m currently learning React,Python.
+- 🌱 I’m currently learning React,Python, Graphql.
 - 👯 I always like working in 🐧️**Linux** Environment.
 - 🤔 I’m looking for help with AWS,Docker,CI-CD
 
