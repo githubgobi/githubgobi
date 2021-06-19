@@ -1,4 +1,4 @@
-# <p align="center">️ **Hello!!👋️ It's Gobi ♒ Rajendran** 🦄 Artisan Vue & React 🐧End to End 🐍Django </p> 
+# <p align="center">️ **Hello!!👋️ It's Gobi ♒ Rajendran** 🦄 Artisan Vue 🐧End to End 🐍Django </p> 
 
 ---
 
