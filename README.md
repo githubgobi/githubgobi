@@ -17,7 +17,7 @@
 
 ### <p align="center">**Be Happy** 😊️ ⌛</p>
 
-<!-- - 🌱 I’m currently learning ReactJs -->
+<!-- - 🌱 I’m currently learning FastAPI -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
